@@ -19,6 +19,4 @@ else {
 
 <img src="app_images/Toggle Image Code.png" width="1000" /><br>
 
-<img src="app_images/Toggle Image App1.png" width="300" /><br>
-
-<img src="app_images/Toggle Image App2.png" width="300" /><br>
+<img src="app_images/Toggle Image App1.png" width="300" /> <img src="app_images/Toggle Image App2.png" width="300" /><br>
